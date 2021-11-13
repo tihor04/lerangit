@@ -5,7 +5,7 @@ using namespace std;
 void solve()
 {
    int a=5;
-   int b=11;
+   int b=133;
    cout<<a+b;
 }
 int main()
